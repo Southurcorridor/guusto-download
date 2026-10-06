@@ -86,3 +86,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for Guusto.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit Guusto on SOFTGIT](https://softgit.pro/p/guusto)** — the full listing.
+- 📄 **[Guusto web page](https://southurcorridor.github.io/guusto-download/)** — standalone info page.
+- 🗂️ [More Communications software](https://softgit.pro/category/communications)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for Guusto. Third-party software; all rights belong to the original authors.
